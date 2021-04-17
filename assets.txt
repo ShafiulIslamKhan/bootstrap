@@ -1,0 +1,5 @@
+body #f6f9f9
+span #15a4fa
+about h2 color #2d3950;
+about h6 color #999999;
+service-icon bg color #48baff;
